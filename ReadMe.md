@@ -1,4 +1,28 @@
-# Introducción
-Este repositorio contiene el trabajo realizado como parte del proyecto de Inteligencia Artificial I para la Universidad Industrial de Santander (Sede de Bucaramanga). El objetivo es desarrollar una estrategia multimodal no invasiva para mejorar el diagnóstico temprano de la enfermedad de Parkinson. Se usan técnicas de análisis de video y audio para identificar patrones distintivos en los síntomas motores, como la rigidez facial y los trastornos del habla.
+# Multimodal Early Detection of Parkinson's Disease
 
-Este proyecto fue realizado por los estudiantes: Juan Diego Roa Porras - 2210086, Andrés Felipe Muñoz Aguilar - 2210087, Guillermo Pinto Ruiz - 2210069.
+
+## Overview
+
+This repository contains the work done as part of the Artificial Intelligence I project for the Universidad Industrial de Santander. This project aims to develop a non-invasive multimodal strategy to enhance early diagnosis of Parkinson's disease. By utilizing video and audio analysis techniques, we seek to identify distinctive patterns in motor symptoms such as facial rigidity and speech disorders.
+
+## Team Members
+- Juan Diego Roa Porras - 2210086
+- Andrés Felipe Muñoz Aguilar - 2210087
+- Guillermo Pinto Ruiz - 2210069
+
+## Project Structure
+- `notebooks/`: Jupyter notebooks with exploratory data analysis and experimental results.
+
+## Getting Started
+### Prerequisites
+- Python 3.9 or newer
+- Jupyter Notebook
+- Libraries: numpy, pandas, matplotlib.
+
+### Installation
+Clone the repository and install the required libraries:
+```sh
+git clone https://github.com/AndresFelipeMunozAguilar/Proyecto_Final_IA1_UIS.git
+cd Proyecto_Final_IA1_UIS
+pip install -r requirements.txt
+```
