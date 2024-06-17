@@ -3,3 +3,4 @@ notebooks/AudioVisualData_v7.zip
 models/*
 data/*
 notebooks/data.csv
+wandb
