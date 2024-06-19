@@ -1,5 +1,6 @@
 # Multimodal Early Detection of Parkinson's Disease
 
+<img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
 ## Overview
 
@@ -13,7 +14,7 @@ The dataset is private and belongs to [Biv2Lab](https://uis-macv.github.io/), in
 
 ## Notebooks Description
 
-<img src="./notebooks/figures/methodologies.png" alt="Deep Learning Notes" width="1600">
+<img src="./notebooks/figures/methodologies.png" alt="Methodologies" width="1600">
 
  - **[Data Exploration:](https://github.com/AndresFelipeMunozAguilar/Proyecto_Final_IA1_UIS/blob/main/notebooks/0.01-gpr-data-exploration.ipynb)** Initial analysis of the data set, including mainly visualization to understand the characteristics of the data.
 
