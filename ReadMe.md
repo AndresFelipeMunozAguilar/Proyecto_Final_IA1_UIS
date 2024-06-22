@@ -2,12 +2,6 @@
 
 <img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
-| **Section**    | **Number of Components** |
-|----------------|--------------------------|
-| **Video**     | 69                       |
-| **Audio**     | 72                       |
-| **Audio y video**  | 91                       |
-
 
 ## Overview
 
