@@ -2,6 +2,21 @@
 
 <img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
+| Modelo                                           | Accuracy             | F1-score            | Precision           | Recall        |
+|--------------------------------------------------|----------------------|---------------------|---------------------|---------------------|
+| Random Forest con 100 árboles (RF100)            | 49.50% (+/- 19.91%)  | 45.08% (+/- 27.21%) | 47.59% (+/- 32.30%) | 50.00% (+/- 36.35%) |
+| Random Forest con 200 árboles (RF200)            | 48.40% (+/- 19.21%)  | 40.26% (+/- 28.45%) | 46.34% (+/- 31.96%) | 44.69% (+/- 38.85%) |
+| Support Vector Machine con kernel lineal (SVM LINEAR) | 75.45% (+/- 18.36%)  | 64.72% (+/- 33.94%) | 78.79% (+/- 35.57%) | 63.00% (+/- 37.61%) |
+| Support Vector Machine con kernel RBF (SVM RBF)   | 77.79% (+/- 22.64%)  | 68.30% (+/- 38.01%) | 76.97% (+/- 35.62%) | 71.79% (+/- 41.64%) |
+| Support Vector Machine con kernel polinómico de grado 3 (SVM POLY DEGREE 3) | 48.92% (+/- 12.13%)  | 11.19% (+/- 13.04%) | 43.43% (+/- 49.01%) | 6.60% (+/- 7.61%)   |
+| Regresor Logístico (LR)                          | 75.72% (+/- 16.85%)  | 66.47% (+/- 31.52%) | 78.42% (+/- 35.37%) | 63.70% (+/- 34.24%) |
+| Gaussian Naive Bayes (GNB)                       | 47.66% (+/- 28.56%)  | 43.28% (+/- 34.98%) | 45.71% (+/- 38.80%) | 50.18% (+/- 44.14%) |
+| Decision Tree con hiperparámetros por defecto (DT DEFAULT) | 42.78% (+/- 18.49%)  | 46.46% (+/- 19.50%) | 43.97% (+/- 19.20%) | 51.86% (+/- 24.93%) |
+| Decision Tree con profundidad máxima de 2 (DT2)   | 58.23% (+/- 15.83%)  | 57.28% (+/- 23.80%) | 54.87% (+/- 19.87%) | 65.20% (+/- 31.35%) |
+| Decision Tree con profundidad máxima de 40 (DT40) | 48.47% (+/- 20.73%)  | 51.05% (+/- 22.51%) | 50.07% (+/- 23.31%) | 57.45% (+/- 29.12%) |
+| Random Forest con 50 árboles (RF50)              | 46.20% (+/- 17.53%)  | 34.04% (+/- 27.90%) | 41.63% (+/- 35.02%) | 38.64% (+/- 40.03%) |
+
+
 ## Overview
 
 This repository contains the work done as part of the Artificial Intelligence I project for the Universidad Industrial de Santander. This project aims to develop a non-invasive multimodal strategy to enhance early detection of Parkinson's disease. By utilizing video and audio analysis techniques, we seek to identify distinctive patterns in motor symptoms such as facial rigidity and speech disorders.
