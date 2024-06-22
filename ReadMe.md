@@ -2,7 +2,7 @@
 
 <img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
-| Modelo                                           | Accuracy             | F1-score            | Precisión           | Sensibilidad        |
+| Modelo                                           | Accuracy             | F1-score            | Precisionn           | Recall        |
 |--------------------------------------------------|----------------------|---------------------|---------------------|---------------------|
 | Random Forest con 100 árboles (RF100)            | 49.50% (+/- 19.91%)  | 45.08% (+/- 27.21%) | 47.59% (+/- 32.30%) | 50.00% (+/- 36.35%) |
 | Random Forest con 200 árboles (RF200)            | 48.40% (+/- 19.21%)  | 40.26% (+/- 28.45%) | 46.34% (+/- 31.96%) | 44.14% (+/- 38.27%) |
