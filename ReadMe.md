@@ -2,7 +2,7 @@
 
 <img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
-**| Model                            | Accuracy (%) | F1-score (%) | Precision (%) | Sensitivity (%) |**
+| **Model**                            | **Accuracy (%)** | **F1-score (%)** | **Precision (%)** | **Sensitivity (%)** |
 |----------------------------------|----------------------|---------------------|---------------------|---------------------|
 | **GNB**                              | 47.66% (+/- 28.56%)  | 43.28% (+/- 34.98%) | 45.71% (+/- 38.80%) | 50.18% (+/- 44.14%) |
 | **DT DEFAULT**                     | 42.78% (+/- 18.49%)  | 46.46% (+/- 19.50%) | 43.97% (+/- 19.20%) | 51.86% (+/- 24.93%) |
