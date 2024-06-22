@@ -3,7 +3,9 @@
 <img src="./notebooks/figures/High Quality Banner Multimodal Early Detection of Parkinson's Disease.png" alt="Banner" width="1600">
 
 
+## Goal
 
+El objetivo del proyecto es entrenar diversos algoritmos de inteligencia artificial, incluyendo algoritmos de machine learning y deep learning, para detectar Parkinson en personas que presenten síntomas de hiponimia y disartria, con el fin de lograr una detección temprana y precisa de la enfermedad, utilizando análisis de componentes principales.
 
 
 ## Overview
