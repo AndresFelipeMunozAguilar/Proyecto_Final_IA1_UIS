@@ -29,8 +29,8 @@ The dataset is private and belongs to [Biv2Lab](https://uis-macv.github.io/), in
 
  - **Non-supervised (audio | video | audio+video):** Using unsupervised learning methods to identify clusters within the data and comparing these clusters with true labels to evaluate the clustering approach. ([NO PCA](https://github.com/AndresFelipeMunozAguilar/Proyecto_Final_IA1_UIS/blob/main/notebooks/1.03-jdr-non-supervised.ipynb) | [PCA](https://github.com/AndresFelipeMunozAguilar/Proyecto_Final_IA1_UIS/blob/main/notebooks/3.03-jdr-pca-non-supervised.ipynb))
    
- ## Links
- The video had a file size larger than the supported github size limit, therefore, instead of sharing the file, the link to the file will be shared, so it can be downloaded. Also the link to the youtube video will be right below
+ ## Video
+ The link to the file will be shared, so it can be downloaded. Also the link to the youtube video will be right below
 
  - Link to the file: https://drive.google.com/file/d/1yPSaTWKTdbd8fM1syH22jFLSkMEItq1v/view?usp=sharing
  - Link to YouTube: https://youtu.be/daIizkWH4d4
